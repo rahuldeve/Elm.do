@@ -1,0 +1,9 @@
+.draggable_clone {
+    /* z-index: 100001; */
+    pointer-events:none; /* disable mouse events on the clone */
+}
+
+/* .draggable.dragging, .draggable .dragging {
+    opacity: 0.5;
+} */
+
